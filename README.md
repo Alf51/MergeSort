@@ -24,7 +24,9 @@
 
 • Примеры запуска из командной строки для Windows: 
 java -jar mergeSort.jar -i out.txt int1.txt int2.txt int3.txt (для целых чисел по возрастанию)
+
 java -jar mergeSort.jar -a -s out.txt str1.txt str2.txt str3.txt (для строк по возрастанию)
+
 java -jar mergeSort.jar -d -s out.txt str1.txt str2.txt str3.txt (для строк по убыванию)
 
 • Входные файлы должны быть отсортированны:
